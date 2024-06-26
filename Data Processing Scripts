@@ -1,0 +1,42 @@
+Data Processing Script Explanation and Steps
+In this project, I manually used Power Query to merge 17 annual Excel spreadsheets into a single data source for efficiency. The remaining pre-cleaning and formatting steps were carried out in Excel. The final processed file was then uploaded to Google BigQuery where the analyses were performed using SQL.
+
+Data Extraction Date: 30/05/2024
+1. Unification of Annual Spreadsheets
+Tools Used: Excel and Power Query
+
+Process:
+
+Power Query was manually used to merge 17 annual Excel spreadsheets into a single data source. This method was chosen for its speed and efficiency.
+Power Query Steps (Manual):
+Open Excel and go to the Data tab.
+Select Get Data > From File > From Folder.
+Select the folder containing the 17 annual Excel files and click Combine & Load.
+Power Query will automatically merge the files into a single table.
+2. Pre-Cleaning and Formatting in Excel
+Steps:
+
+Standardization of Column Names:
+
+Converted all column names to uppercase.
+Removed accents and special characters.
+Removed whitespace and quotes (").
+Verification and Correction of Data Types:
+
+Checked and formatted column data types to ensure consistency (float and integer).
+Numbers were formatted to two decimal places.
+Saving:
+
+The final file was saved in UTF-8 CSV format to ensure compatibility with BigQuery.
+3. Upload to Google BigQuery
+Steps:
+
+Upload the CSV file:
+
+Open Google BigQuery.
+Select your project and dataset.
+Click on Create Table.
+Upload the CSV file and configure the table schema as needed.
+Perform SQL Analyses:
+
+After uploading the data, use SQL queries in Google BigQuery to perform the required analyses.
