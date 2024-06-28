@@ -6,7 +6,7 @@ An insurance company intends to start operations in the rural insurance sector i
 
 ## Data Sources
 
-The data used in this analysis were extracted from the Rural Insurance Premium Subsidy Program (PSR) of the Brazilian Ministry of Agriculture, Livestock, and Supply (MAPA). The data covers the period from 2006 to 2023 and is publicly accessible.
+The data used in this analysis were extracted from the Rural Insurance Premium Subsidy Program (PSR) of the Brazilian Ministry of Agriculture, Livestock, and Supply (MAPA). The analysis covers the period from 2006 to 2023 and is based on publicly accessible data. Note that the data in the analysis may vary slightly in relation to the database, as the database is updated daily.
 
 **[Link to the data](https://www.gov.br/agricultura/pt-br/assuntos/riscos-seguro/seguro-rural/dados)**  
 **Extraction Date:** May 30, 2024
