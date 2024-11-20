@@ -2,7 +2,7 @@
 
 ## Problem to be Solved
 
-An insurance company intends to start operations in the rural insurance sector in Brazil and requires a detailed analysis of the federally subsidized rural insurance market to gain insights that facilitate strategic decision-making. Understanding this market is essential for the insurance company, as it allows them to create and offer products that meet the specific needs of farmers, thereby ensuring the economic viability of operations.
+An insurance company intends to start operations in the rural insurance sector in Brazil and requires a detailed analysis of the federal subsidized rural insurance market to gain insights that facilitate strategic decision-making. Understanding this market is essential for the insurance company, as it allows them to create and offer products that meet the specific needs of farmers, thereby ensuring the economic viability of operations.
 
 ## Data Sources
 
